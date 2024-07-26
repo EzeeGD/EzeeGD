@@ -63,8 +63,4 @@
 
 ![EzeeGD's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=EzeeGD&theme=radical&hide_border=true)
 
-![EzeeGD's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=EzeeGD&theme=redical&hide_border=true&height=400)
-
 ![EzeeGD's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EzeeGD&theme=darkhub&no-bg=true&no-frame=true&margin-w=15)
-
-![EzeeGD's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=EzeeGD&theme=dark&hide_border=true&langs_count=15&layout=compact&hide=other,xml,text&custom_title=Language%20Experience)
